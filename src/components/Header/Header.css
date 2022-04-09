@@ -1,0 +1,16 @@
+.header {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.header nav a:hover{
+    color: goldenrod;
+}
